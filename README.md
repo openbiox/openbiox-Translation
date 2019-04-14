@@ -23,7 +23,7 @@ openbiox 翻译小组是一个依托于 openbiox 并通过 GitHub 进行管理�
 
 **早期成员**(先后为加入顺序)
 [@赵飞](https://github.com/fei0810)
-[@王诗祥](https://github.com/ShixiangWang)
+[@王诗翔](https://github.com/ShixiangWang)
 [@梁其云](https://github.com/2015qyliang)
 [@郑东旭](https://github.com/dongxuzheng)
 [@张浩浩](https://github.com/hyacz)
@@ -35,6 +35,6 @@ openbiox 翻译小组是一个依托于 openbiox 并通过 GitHub 进行管理�
 
 ### [CookBook for R](https://github.com/openbiox/Cookbook-for-R-Chinese)
 
-项目负责人：[@王诗祥](https://github.com/ShixiangWang)
+项目负责人：[@王诗翔](https://github.com/ShixiangWang)
 
 项目状态：进行中
