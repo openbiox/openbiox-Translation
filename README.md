@@ -19,16 +19,26 @@ openbiox 翻译计划本身并不涉及具体的某一个翻译项目，但是�
 
 ## 项目成员
 
-openbiox 翻译小组是一个依托于 openbiox 并通过 GitHub 进行管理协作的翻译兴趣小组，包括早期加入成员和后期具体项目负责人。其中早期成员主要职责是通过1-2个示例项目打通翻译协作流程以便于后期工作的开展，后期每个具体翻译项目负责人（机制成熟后不限于 openbiox 成员）无特殊要求则自动加入 openbiox 翻译小组。
+openbiox 翻译小组是一个依托于 openbiox 并通过 GitHub 进行管理协作的翻译兴趣小组，包括早期加入成员和后期具体项目负责人。
+
+其中早期成员主要职责是通过1-2个示例项目打通翻译协作流程以便于后期工作的开展，后期每个具体翻译项目负责人（机制成熟后不限于 openbiox 成员）无特殊要求则自动加入 openbiox 翻译小组。
 
 **早期成员**(先后为加入顺序)
+
 [@赵飞](https://github.com/fei0810)
+
 [@王诗翔](https://github.com/ShixiangWang)
+
 [@梁其云](https://github.com/2015qyliang)
+
 [@郑东旭](https://github.com/dongxuzheng)
+
 [@张浩浩](https://github.com/hyacz)
+
 [@陈颖珊](https://github.com/w1nsan)
+
 [@张子颖](https://github.com/ZiyingZhang1)
+
 [@贾敏](https://github.com/jiamin2010)
 
 ## 翻译项目池
