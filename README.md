@@ -48,3 +48,9 @@ openbiox 翻译小组是一个依托于 openbiox 并通过 GitHub 进行管理�
 项目负责人：[@王诗翔](https://github.com/ShixiangWang)
 
 项目状态：进行中
+
+### [Bioinformatics Workflow 翻译计划](https://github.com/openbiox/Awesome-Bioinformatics-Workflow-Chinese)
+
+项目负责人：[@郑东旭](https://github.com/dongxuzheng); [@赵飞](https://github.com/fei0810)
+
+项目状态：进行中
