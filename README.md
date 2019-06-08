@@ -1,5 +1,7 @@
 # openbiox 翻译计划
 
+更多信息以及协作翻译和校对具体要求，请查看 [项目 wiki 页面](https://github.com/openbiox/openbiox-Translation/wiki)
+
 ## 项目简介
 
 **openbiox 翻译计划**是 openbiox 第一批启动开放项目之一，该项目旨在翻译和维护国外优秀的生物信息相关书籍、技术文档和文章，提升成员自身学习能力的同时提高 openbiox 影响力，帮助国内生物信息学习者和工作者。
@@ -25,21 +27,7 @@ openbiox 翻译小组是一个依托于 openbiox 并通过 GitHub 进行管理�
 
 **早期成员**(先后为加入顺序)
 
-[@赵飞](https://github.com/fei0810)
-
-[@王诗翔](https://github.com/ShixiangWang)
-
-[@梁其云](https://github.com/2015qyliang)
-
-[@郑东旭](https://github.com/dongxuzheng)
-
-[@张浩浩](https://github.com/hyacz)
-
-[@陈颖珊](https://github.com/w1nsan)
-
-[@张子颖](https://github.com/ZiyingZhang1)
-
-[@贾敏](https://github.com/jiamin2010)
+[@赵飞](https://github.com/fei0810)；[@王诗翔](https://github.com/ShixiangWang)；[@梁其云](https://github.com/2015qyliang)；[@郑东旭](https://github.com/dongxuzheng)；[@张浩浩](https://github.com/hyacz)；[@陈颖珊](https://github.com/w1nsan)；[@张子颖](https://github.com/ZiyingZhang1)；[@贾敏](https://github.com/jiamin2010)
 
 ## 翻译项目池
 
