@@ -48,3 +48,9 @@ openbiox 翻译小组是一个依托于 openbiox 并通过 GitHub 进行管理�
 项目负责人：[@郑东旭](https://github.com/dongxuzheng); [@赵飞](https://github.com/fei0810)
 
 项目状态：进行中
+
+---
+
+**致谢**：
+
+在 Openbiox 翻译小组拟定整体翻译协作流程和实践的过程中，大量参考了 [掘金翻译计划](https://github.com/xitu/gold-miner) 已有的丰富经验，在此表示真挚的感谢。我们也将努力为热爱学习的生物信息学生和工作人员提供优质的中文资源。
