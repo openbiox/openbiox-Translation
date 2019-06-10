@@ -1,5 +1,7 @@
 # openbiox 翻译计划
 
+![](https://raw.githubusercontent.com/fei0810/image-host/master/img/20190610085244.jpg)
+
 > 更多信息以及协作翻译和校对具体要求，请查看 [项目 wiki 页面](https://github.com/openbiox/openbiox-Translation/wiki)
 
 ## 项目简介
